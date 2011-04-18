@@ -16,11 +16,9 @@ else
 end
 
 -- Borders
-LSM:Register("border", "Border", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Border.blp")
-LSM:Register("border", "Default", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Default.tga")
-LSM:Register("border", "Gloss", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Gloss.tga")
+LSM:Register("border", "Normal", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Normal.blp")
 LSM:Register("border", "Shadow", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Shadow.tga")
-LSM:Register("border", "Square", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Square.tga")
+LSM:Register("border", "Slim", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Slim.tga")
 
 -- Fonts
 LSM:Register("font", "Calibri", "Interface\\AddOns\\ShestakUI_Media\\Media\\Fonts\\Calibri.ttf", LOCALE_MASK)
