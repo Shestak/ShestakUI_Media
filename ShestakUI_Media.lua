@@ -16,7 +16,7 @@ else
 end
 
 -- Borders
-LSM:Register("border", "Normal", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Normal.blp")
+LSM:Register("border", "Normal", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Normal.tga")
 LSM:Register("border", "Shadow", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Shadow.tga")
 LSM:Register("border", "Slim", "Interface\\AddOns\\ShestakUI_Media\\Media\\Borders\\Slim.tga")
 
@@ -39,6 +39,7 @@ LSM:Register("statusbar", "DarkBottom", "Interface\\AddOns\\ShestakUI_Media\\Med
 LSM:Register("statusbar", "Empty", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Empty.tga")
 LSM:Register("statusbar", "Flat", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Flat.tga")
 LSM:Register("statusbar", "Frost", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Frost.tga")
+LSM:Register("statusbar", "HalU", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\HalU.tga")
 LSM:Register("statusbar", "Hatched", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Hatched.tga")
 LSM:Register("statusbar", "Minimalist", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Minimalist.tga")
 LSM:Register("statusbar", "Rain", "Interface\\AddOns\\ShestakUI_Media\\Media\\Statusbars\\Rain.tga")
