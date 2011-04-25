@@ -1,8 +1,8 @@
-## Interface: 40000
+## Interface: 40100
 ## Title: ShestakUI Media
 ## Notes: Extra media for ShestakUI
 ## Author: Shestak
-## Version: 0.0.1
+## Version: 0.0.2
 ## Credits: Nevcairiel, mikk, Elkano, Kaelten, Ammo, Cladhaire
 ## RequiredDeps: ShestakUI
 ## OptionalDeps: LibStub, LibSharedMedia-3.0
